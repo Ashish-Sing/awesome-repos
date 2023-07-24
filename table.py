@@ -9,3 +9,4 @@ for i in range(1, 11):
     print()  # Print an empty line after each table for better readability
 
 #my second modifiction for this code
+#my third changes for this code
