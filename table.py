@@ -10,4 +10,7 @@ for i in range(1, 11):
 
 #my second modifiction for this code
 #my third changes for this code
+<<<<<<< HEAD
 #fix provide by master branch
+#hotfix provided in hotfix branch
+>>>>>>> hotfix
